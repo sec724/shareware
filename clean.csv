@@ -1,8 +1,3 @@
-# sec724-wp-blocklist.csv is a list of IP addresses to block (gathered from Wordpress scanning / hacking attempts) - block to save resources.
-# To support this project please visit sec724.com , thank you so much.
-# Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), open license for more info.
-# TLDR: You must give appropriate credit. You may not use the material for commercial purposes without contacting us.
-# Depending where you are uploading this, you may need to remove every comment / date lines.
 34.106.13.36
 157.230.37.194
 159.223.77.126
@@ -236,4 +231,3 @@
 91.92.246.16
 37.60.251.182
 199.116.252.157
-
